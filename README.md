@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Ivaneide 👩🏽‍💻</h1>
 
 <p align="center">
-  <img src="sua_foto.jpg" width="150" style="border-radius: 50%;" alt="Foto de Ivaneide"/>
+ <img src="iv.jpg" width="150" style="border-radius: 50%;" alt="Foto de Ivaneide Pires">
 </p>
 
 <p align="center">
@@ -42,8 +42,12 @@ Sou apaixonada por tecnologia e transformação digital, com foco em **Qualidade
 
 ## 💬 Contato
 
-- 📧 ivaneide.pmnascimento@email.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ivaneidepmn/) 
+📞 Contato
+📧 E-mail: ivaneide.pmnascimento@gmail.com
+
+📱 WhatsApp: +55 91 98485-5912
+
+💼 LinkedIn: linkedin.com/in/ivaneidepmn
 
 
 ---
