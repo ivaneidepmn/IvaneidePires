@@ -34,9 +34,9 @@ Sou apaixonada por tecnologia e transformação digital, com foco em **Qualidade
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | **GFAuto** | Sistema para Gestão de Fomentação e Arquivamento (tipo PAE) com módulos separados e regras arquivísticas. | Python, SQL, Frontend Web |
-| **Sistema Biométrico para Autoescolas** | Captura facial e digital, geração de relatórios para DETRAN com base na portaria vigente. | JS, PHP, SQL |
+| **Sistema Biométrico para Autoescolas** | Criação de Manual para Sistema Biometrico, Captura facial e digital, geração de relatórios para DETRAN com base na portaria vigente. | JS, PHP, SQL |
 | **FoxFlow** | Plataforma de geração automatizada de documentos técnicos com IA. | Python, NLP, Web |
-| **Manuais da SEFA** | Reestruturação completa de documentações antigas de sistemas contábeis. | Word, Markdown |
+| **Manuais da SEFA** | Reestruturação completa de Manuais antigos de sistemas. | Word, Markdown |
 
 ---
 
